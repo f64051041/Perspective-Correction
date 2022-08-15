@@ -1,8 +1,8 @@
 # Feature_Match
 Feature match method please refer to this github. [here](https://github.com/zju3dv/LoFTR)
-<div align = center>
-<img src="illustration.png" alt="Cover" width="50%"/> 
-</div>
+
+<img src="illustration.png" alt="Cover" width="60%"/> 
+
 
 
 ## Requirements
