@@ -1,0 +1,2 @@
+python demo_loftr.py --weight last.ckpt --input img --input1 img img/sample1.jpg --input2 img/sample2.jpg 
+
